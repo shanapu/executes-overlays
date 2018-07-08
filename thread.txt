@@ -32,7 +32,7 @@ v1.2
 [U][B]Credits[/B][/U] :bacon!:
 Big thanks @splewis for his great work!
 Also big thanks to all sourcemod & metamod developers out there!
-eDanny for request & first test
+[URL=https://forums.alliedmods.net/showthread.php?t=308934]eDanny for request[/URL] & first test
 
 [B][U]Include file for compile[/U][/B]
 [LIST]
